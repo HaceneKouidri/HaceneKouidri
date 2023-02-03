@@ -4,7 +4,7 @@
 
 - 🌱 I have a deep passion for the blockchain technology  
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Contribute more to the cryptoverse
+- 🥅 2023 Goals: Contribute more to open source project
 
 <h3>Where to find me</h3>
 <p>
