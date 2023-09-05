@@ -1,10 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm Hacène KOUIDRI, <b>a Full-stack Developer</b>. </p>
+<p>Welcome to my page! </br> I'm Hacène KOUIDRI. </p>
 
-- 🌱 I have a deep passion for the blockchain technology  
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Contribute more to open source project
 
 <h3>Where to find me</h3>
 <p>
